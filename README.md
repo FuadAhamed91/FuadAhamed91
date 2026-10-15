@@ -7,6 +7,7 @@
 
 <!-- Banner: a rendered particle iris (~400k emitters, depth of field, motion blur, bloom). Source in assets/render/ -->
 <picture>
+  <source type="image/avif" srcset="https://raw.githubusercontent.com/FuadAhamed91/FuadAhamed91/main/assets/banner-purple-team.avif?v=2" />
   <img src="assets/banner-purple-team.webp" width="100%" alt="Fuad Ahamed: SOC analyst and penetration tester, with agentic AI and full-stack skills. An animated particle iris: blue-team particles at the rim flow inward and turn red-team crimson at the core while a radar sweep turns and one red threat is tracked into containment" />
 </picture>
 

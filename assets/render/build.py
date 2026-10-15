@@ -107,7 +107,7 @@ def main():
     encode(frames, a.fps)
 
 
-def encode(frames, fps, avif_q=48, webp_q=60):
+def encode(frames, fps, avif_q=48, webp_q=45):
     dur = int(round(1000 / fps))
     t0 = time.time()
     frames[0].save(os.path.join(ASSETS, "banner-purple-team.avif"), save_all=True, append_images=frames[1:],
