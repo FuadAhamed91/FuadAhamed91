@@ -13,11 +13,11 @@
 
 <h3>Security engineer who builds: blue-team detection, red-team testing, and the AI and full-stack skills to ship my own tools.</h3>
 
-<p>🎓 <b>Final-year Cybersecurity student</b> · <b>CGPA 3.9 / 4.0</b></p>
+<p>🎓 <b>Final-year Cybersecurity student @ Al Ain University</b> · <b>CGPA 3.9 / 4.0</b></p>
 
 <p>SOC & detection engineering · penetration testing · agentic AI · full-stack · 3D digital twins</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=A878FF&center=true&vCenter=true&width=640&lines=Final-Year+Cybersecurity+Student+%C2%B7+CGPA+3.9;SOC+Analyst+%C2%B7+Detection+Engineering;Penetration+Tester+%C2%B7+Offensive+Security;Purple+Team%3A+blue+%2B+red%2C+one+person;Agentic+AI+%C2%B7+Full-Stack+%C2%B7+Digital+Twins;2%C3%97+1st-Place+Hackathon+Winner" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=A878FF&center=true&vCenter=true&width=640&lines=Cybersecurity+%40+Al+Ain+University+%C2%B7+CGPA+3.9;SOC+Analyst+%C2%B7+Detection+Engineering;Penetration+Tester+%C2%B7+Offensive+Security;Purple+Team%3A+blue+%2B+red%2C+one+person;Agentic+AI+%C2%B7+Full-Stack+%C2%B7+Digital+Twins;2%C3%97+1st-Place+Hackathon+Winner" alt="typing intro" />
 
 <br/><br/>
 
@@ -35,7 +35,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%8E%93%20Cybersecurity%20Student-Final%20Year-334155?style=flat-square" alt="Final-year Cybersecurity student" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%93%20Al%20Ain%20University-Cybersecurity%20%C2%B7%20Final%20Year-334155?style=flat-square" alt="Final-year Cybersecurity student at Al Ain University" />
 <img src="https://img.shields.io/badge/CGPA-3.9%20%2F%204.0-16A34A?style=flat-square" alt="CGPA 3.9 / 4.0" />
 <img src="https://img.shields.io/badge/SOC%20Analyst-1F6FEB?style=flat-square" alt="SOC Analyst" />
 <img src="https://img.shields.io/badge/Penetration%20Tester-D7263D?style=flat-square" alt="Penetration Tester" />
@@ -53,7 +53,7 @@
 
 ## 🛡️ Security First
 
-I'm a **final-year Cybersecurity student (CGPA 3.9 / 4.0)**, and I work both sides of the wire. On the **blue team** I build detections and prove they fire. On the **red team** I find the way in before someone else does. And because I'm also a developer, I build the tools, dashboards and agents I need to do both.
+I'm a **final-year Cybersecurity student at Al Ain University (CGPA 3.9 / 4.0)**, and I work both sides of the wire. On the **blue team** I build detections and prove they fire. On the **red team** I find the way in before someone else does. And because I'm also a developer, I build the tools, dashboards and agents I need to do both.
 
 | 🔵 Blue team · SOC & detection | 🔴 Red team · penetration testing | 🟣 Agentic AI & security tooling |
 |---|---|---|
@@ -259,7 +259,7 @@ FuadAhamed91 · projects I built or committed to
 
 ## 🤝 Let's Talk
 
-Final-year Cybersecurity student (CGPA 3.9 / 4.0), open to **SOC and pentest roles**, **internships**, **hackathon teams**, and anyone who wants a security person who can also ship the product.
+Final-year Cybersecurity student at Al Ain University (CGPA 3.9 / 4.0), open to **SOC and pentest roles**, **internships**, **hackathon teams**, and anyone who wants a security person who can also ship the product.
 
 <div align="center">
 
